@@ -1,43 +1,63 @@
- MCA Data Structures
-A collection of Data Structures and Algorithms implementations in Python, created as part of my Master of Computer Applications (MCA) coursework and self-learning journey.
+🐍 MCA-Python
+
+A collection of Python programs, assignments, and practical implementations in Python, created as part of my Master of Computer Applications (MCA) coursework and self-learning journey.
+
 📌 About
-This repository contains my Data Structures coursework and practice completed during my Master of Computer Applications (MCA). It includes implementations of various data structures, algorithms, assignments, coding exercises, and Jupyter notebooks that document my learning journey while strengthening my programming and problem-solving skills.
+
+This repository contains my Python coursework and practice completed during my Master of Computer Applications (MCA). It includes Python basics, control structures, functions, Object-Oriented Programming (OOP), assignments, coding exercises, and Jupyter notebooks that document my learning journey while strengthening my programming and problem-solving skills.
+
 📂 Repository Structure
-MCA-Data-Structures/
+
+MCA-Python/
 │
-├── Arrays/
-├── Linked Lists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Searching Algorithms/
-├── Sorting Algorithms/
-├── Recursion/
-├── Assignments/
+├── Python Basics/
+├── Variables & Data Types/
+├── Operators/
+├── Input & Output/
+├── Conditional Statements/
+├── Loops/
+├── Functions/
+├── Strings/
+├── Lists/
+├── Tuples/
+├── Sets/
+├── Dictionaries/
+├── File Handling/
+├── Exception Handling/
+├── Object-Oriented Programming/
+├── Modules & Packages/
 ├── Practice Programs/
+├── Assignments/
 ├── Jupyter Notebooks/
-├── Notes & Study Materials/
 └── README.md
+
 🛠️ Technologies Used
-🐍 Python 3
-📓 Jupyter Notebook
-💻 Visual Studio Code
-🌿 Git
-🐙 GitHub
+
+- 🐍 Python 3
+- 📓 Jupyter Notebook
+- 💻 Visual Studio Code
+- 🌿 Git
+- 🐙 GitHub
+
 🎯 Purpose
+
 This repository aims to:
-Practice Data Structures and Algorithms using Python.
-Complete MCA coursework, assignments, and practical exercises.
-Strengthen problem-solving and logical thinking skills.
-Build a solid foundation for Software Development and Technical Interviews.
-Track my learning progress through organized code and documentation.
+
+- Practice Python programming concepts using real examples and exercises.
+- Complete MCA coursework, assignments, and practical exercises.
+- Strengthen problem-solving and logical thinking skills.
+- Build a solid foundation for software development and advanced programming.
+- Track my learning progress through organized code and documentation.
+
 ✨ Features
-📚 Well-organized topic-wise programs
-💻 Python implementations of core data structures
-📝 MCA assignments and practice programs
-📓 Jupyter Notebook examples
-🚀 Beginner-friendly and easy to understand
-📖 Regularly updated with new concepts
+
+- 📚 Well-organized topic-wise Python programs
+- 💻 Practical implementations of Python concepts
+- 📝 MCA assignments and practice programs
+- 📓 Jupyter Notebook examples
+- 🚀 Beginner-friendly and easy to understand
+- 📖 Regularly updated with new concepts
+
 📈 Status
-🚀 This repository is continuously updated as I learn new Data Structures, algorithms, and programming concepts throughout my MCA journey. New implementations, assignments, notes, and practice problems will be added regularly.
+
+🚀 This repository is continuously updated as I learn new Python concepts, programming techniques, and practical implementations throughout my MCA journey. New programs, assignments, notes, and practice problems will be added regularly.

@@ -21,12 +21,14 @@ MCA-Data-Structures/
 ├── Jupyter Notebooks/
 ├── Notes & Study Materials/
 └── README.md
+
 🛠️ Technologies Used
 🐍 Python 3
 📓 Jupyter Notebook
 💻 Visual Studio Code
 🌿 Git
 🐙 GitHub
+
 🎯 Purpose
 This repository aims to:
 
@@ -35,6 +37,7 @@ Complete MCA coursework, assignments, and practical exercises.
 Strengthen problem-solving and logical thinking skills.
 Build a solid foundation for Software Development and Technical Interviews.
 Track my learning progress through organized code and documentation.
+
 ✨ Features
 📚 Well-organized topic-wise programs
 💻 Python implementations of core data structures
@@ -42,6 +45,6 @@ Track my learning progress through organized code and documentation.
 📓 Jupyter Notebook examples
 🚀 Beginner-friendly and easy to understand
 📖 Regularly updated with new concepts
+
 📈 Status
 🚀 This repository is continuously updated as I learn new Data Structures, algorithms, and programming concepts throughout my MCA journey. New implementations, assignments, notes, and practice problems will be added regularly.
-
